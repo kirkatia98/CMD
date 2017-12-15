@@ -1,0 +1,12 @@
+//Binary Digit Sum
+//Inputs
+8 X
+0 dec X 1 4
+1 dec X 2 3
+2 inc Y
+3 inc Z 4
+4 dec Y 5 8
+5 inc Y 6
+6 dec Y 7 0
+7 inc X 6
+8 halt

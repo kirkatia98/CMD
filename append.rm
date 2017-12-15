@@ -1,0 +1,12 @@
+//Append B to the end of X
+7
+B X
+//S = 1 << B
+0 inc X 1
+1 inc S 2
+2 inc S 3
+3 inc S 4
+4 dec B 2 4
+//
+5 dec X 6 6
+6 halt

@@ -1,0 +1,8 @@
+//Add X and Y into Z
+5
+X Y
+0 dec X 1 2
+1 inc Z 0
+2 dec Y 3 4
+3 inc Z 2
+4 halt
